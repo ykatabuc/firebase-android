@@ -1,0 +1,48 @@
+.DS_Store
+Thumbs.db
+
+# built application files
+*.apk
+*.ap_
+
+# files for the dex VM
+*.dex
+
+# Java class files
+*.class
+
+# gradle files
+.gradle
+.idea
+
+# Local configuration file 
+local.properties
+
+# generated files
+bin/
+gen/
+obj/
+apk/
+target/
+build/
+app/libs/**/*.java
+captures/
+
+# Intellij project files
+*.iml
+*.ipr
+*.iws
+.idea/
+.idea/*
+
+# Gradle folder
+.gradle/
+.gradle/*
+.bin
+*.bin
+
+# Android Studio files
+*/build/
+build/
+crashlytics-build.properties
+#gradle-wrapper.properties
